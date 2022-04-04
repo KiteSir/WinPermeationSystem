@@ -64,7 +64,8 @@
 
 ​			4、做完之后感觉系统有点臃肿，影响性能，下次更新精简一下。
 
-#### 下载地址：https://pan.xunlei.com/s/VMzojdEdV_3VlEu28TR-FGxIA 提取码：j6r3
+#### 下载地址：链接：https://pan.xunlei.com/s/VMzolW4km3fZHDF0tBuSQ-v3A1
+提取码：ph7t
 
 本项目地址：https://github.com/KiteSir/WinPermeationSystem
 
