@@ -46,11 +46,11 @@
 如您在使用本镜像的过程中存在任何非法行为，您需自行承担相应后果，作者将不承担任何法律及连带责任。
 ```
 
-![1](D:\Users\windows\Downloads\WinPermeationSystem\1.PNG)
+![1](1.PNG)
 
-![2](D:\Users\windows\Downloads\WinPermeationSystem\2.PNG)
+![2](2.PNG)
 
-![20](D:\Users\windows\Downloads\WinPermeationSystem\20.PNG)
+![20](20.PNG)
 
 使用技巧：
 
