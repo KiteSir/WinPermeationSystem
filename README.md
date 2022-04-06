@@ -99,4 +99,5 @@
 
 ​			4、系统导入之后可能存在未激活，可利用系统工具的Windows激活\CMWTAT_Digital_Release激活工具激活。
 
-**下载地址：**新版本即将上传...
+**下载地址：**链接：https://pan.xunlei.com/s/VMzyix4UsvnhRnoSlKTnbo-iA1
+提取码：pemz
