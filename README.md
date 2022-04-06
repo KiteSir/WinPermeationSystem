@@ -47,39 +47,39 @@
 
 
 
-![1](F:\WinPermeationSystem\1.png)
+![1](1.png)
 
-![2](F:\WinPermeationSystem\2.png)
+![2](2.png)
 
-![3](F:\WinPermeationSystem\3.png)
+![3](3.png)
 
-![4](F:\WinPermeationSystem\4.png)
+![4](4.png)
 
-![5](F:\WinPermeationSystem\5.png)
+![5](5.png)
 
-![6](F:\WinPermeationSystem\6.png)
+![6](6.png)
 
-![7](F:\WinPermeationSystem\7.png)
+![7](7.png)
 
-![8](F:\WinPermeationSystem\8.png)
+![8](8.png)
 
-![9](F:\WinPermeationSystem\9.png)
+![9](9.png)
 
-![10](F:\WinPermeationSystem\10.png)
+![10](10.png)
 
-![11](F:\WinPermeationSystem\11.png)
+![11](11.png)
 
-![12](F:\WinPermeationSystem\12.png)
+![12](12.png)
 
-![13](F:\WinPermeationSystem\13.png)
+![13](13.png)
 
-![14](F:\WinPermeationSystem\14.png)
+![14](14.png)
 
-![15](F:\WinPermeationSystem\15.png)
+![15](15.png)
 
-![16](F:\WinPermeationSystem\16.png)
+![16](16.png)
 
-![17](F:\WinPermeationSystem\17.png)
+![17](17.png)
 
 #### 建议：工具系统那个顺手用那个，工具不能让你成为”高手“，他只是让你提高效率。**
 
