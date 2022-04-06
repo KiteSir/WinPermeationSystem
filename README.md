@@ -1,12 +1,12 @@
 ## 																					**WinPermeationSystem** 
 
-**说明**：做这个系统的原因是因为自己的笔记本电脑是一块4K屏幕，VMware Workstation Pro的缩放不友好，字体太小，所以被迫使用Oracle VM VirtualBox，这个系统是根据大佬的penetration-suite-toolkit系统进行修改制作的，非常喜欢大佬的系统，这个是给大佬做的补充，因为大佬的系统是基于VMware Workstation Pro制作的，我无法导入Oracle VM VirtualBox里使用，如果大佬后期制作基于Oracle VM VirtualBox我会停止更新。我这个系统比较大，大家可以自行卸载删除不需要的东西，来减轻磁盘容量。因本人只是小白，水平有限，无法对系统是否感染木马后门进行测试，请自行测试，见谅！如有发现也请及时告知，谢谢！如果你不是非常喜欢Oracle VM VirtualBox，建议使用大佬制作的系统非常好用，请多多支持他。
+**说明**：做这个系统的原因是因为自己的笔记本电脑是一块4K屏幕，VMware Workstation Pro的缩放不友好，字体太小，所以被迫使用Oracle VM VirtualBox，这个系统是模仿大佬的penetration-suite-toolkit系统进行制作的，非常喜欢大佬的系统，这个是给大佬做的补充，因为大佬的系统是基于VMware Workstation Pro制作的，我无法导入Oracle VM VirtualBox里使用，如果大佬后期制作基于Oracle VM VirtualBox我会停止更新。我这个系统比较大，大家可以自行删除卸载不需要的东西，来减轻磁盘压力。因水平有限，未测试出系统是否已感染木马后门，请自行测试，见谅！如有发现也请及时告知，谢谢！如果你不是非常喜欢Oracle VM VirtualBox，建议使用大佬制作的系统非常好用，请多多支持他。
 
 #### **大佬的项目地址：https://github.com/makoto56/penetration-suite-toolkit**
 
 
 
-**借用大佬的话：**
+**引用大佬的话：**
 
 **`Windows10 渗透测试套件`**
 
@@ -50,7 +50,7 @@
 
 **更新说明**： 
 
-​				1、本次更新移除了kali子系统，因为我无法让无线工具 Aircrack-ng 在此系统上正常使用，所以大家做无线安全测试还是会用虚拟机单独安装kali系统，所以我就不想再集成里面了，如有需要可自己安装 。
+​				1、本次更新移除了kali子系统，因为我无法让无线工具 Aircrack-ng 在此系统上正常使用，所以大家做无线安全测试还是会用虚拟机单独安装kali系统，所以我就不想再集成里面了，如有需要可自己安装,部分常用工具经成
 
 ​				2、部分工具已经升级为最新（2022.04)。
 
@@ -59,8 +59,6 @@
 **使用技巧**：
 
 ​			1、系统开机密码为**H202201!**，部分软件登录账户请在办公工具里面的“系统使用说明“中查看。
-
-​			2、虽然移除了kali子系统，但部分常用工具已经集成。
 
 ​			3、建议重装一下 Oracle VM VirtualBox 增强工具。
 
