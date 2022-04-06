@@ -79,7 +79,7 @@
 
 ![17](17.png)
 
-#### 建议：工具系统那个顺手用那个，工具不能让你成为”高手“，他只是让你提高效率。
+#### 建议：工具系统那个顺手用那个，工具不能让你成为”高手“，他只是用来让你提高效率。
 
 项目地址：https://github.com/KiteSir/WinPermeationSystem
 
@@ -95,9 +95,10 @@
 
 ​			1、系统开机密码为**H202201!**，部分软件登录账户请在办公工具里面的“系统使用说明“中查看。
 
-​			3、建议重装一下 Oracle VM VirtualBox 增强工具。
+​			2、建议重装一下 Oracle VM VirtualBox 增强工具。
 
-​			4、系统导入之后可能存在未激活，可利用系统工具的Windows激活\CMWTAT_Digital_Release激活工具激活。
+​			3、系统导入之后可能存在未激活，可利用系统工具的Windows激活\CMWTAT_Digital_Release激活工具激活。
 
 **下载地址：**链接：https://pan.xunlei.com/s/VMzyix4UsvnhRnoSlKTnbo-iA1
-提取码：pemz
+提取码：pemz 
+大小：37G
