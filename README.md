@@ -4,8 +4,6 @@
 
 #### **大佬的项目地址：https://github.com/makoto56/penetration-suite-toolkit**
 
-
-
 **引用大佬的话：**
 
 **`Windows10 渗透测试套件`**
@@ -79,7 +77,7 @@
 
 ![17](17.png)
 
-#### 建议：工具系统那个顺手用那个，工具不能让你成为”高手“，他只是用来让你提高效率。
+#### 建议：工具系统那个顺手用那个，工具不能让你成为“高手”，他只是用来让你提高效率。
 
 项目地址：https://github.com/KiteSir/WinPermeationSystem
 
@@ -99,6 +97,6 @@
 
 ​			3、系统导入之后可能存在未激活，可利用系统工具的Windows激活\CMWTAT_Digital_Release激活工具激活。
 
-**下载地址：**链接：https://pan.xunlei.com/s/VMzyix4UsvnhRnoSlKTnbo-iA1
-提取码：pemz 
-大小：37G
+载地址：链接：https://pan.xunlei.com/s/VMzzPdv80lxhDkNFPGiAAvP8A1
+提取码：yz42
+总大小：37G
